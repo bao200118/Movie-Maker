@@ -1,1 +1,4 @@
-# A simple project Movie maker with Apollo Client + GraphQL + Express + Typescript
+# Movie maker 
+A simple project use:
+- Frontend: React + Apollo Client + Typescript
+- Backend: ExpressJS + Typescript + GraphQL + Mongoose
